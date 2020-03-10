@@ -1,1 +1,1 @@
-Numpy用法总结，[在线链接](https://nbviewer.jupyter.org/github/LAUGHTALE/Numpy/tree/master/)
+Numpy用法总结，[在线运行网站](https://nbviewer.jupyter.org/github/LAUGHTALE/CDA/tree/master/Numpy)
